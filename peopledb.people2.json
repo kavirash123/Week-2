@@ -1,0 +1,2600 @@
+[{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac1"
+  },
+  "First Name": "Grace",
+  "Last Name": "Nelson",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "g.nelson@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 5347,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac2"
+  },
+  "First Name": "Justin",
+  "Last Name": "West",
+  "Gender": "Male",
+  "Age": 27,
+  "Email": "j.west@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 5783,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac3"
+  },
+  "First Name": "Daryl",
+  "Last Name": "Johnson",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "d.johnson@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 4450,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac4"
+  },
+  "First Name": "Tiana",
+  "Last Name": "Fowler",
+  "Gender": "Female",
+  "Age": 27,
+  "Email": "t.fowler@randatmail.com",
+  "Education": "Primary",
+  "Salary": 3529,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac5"
+  },
+  "First Name": "Alen",
+  "Last Name": "Barnes",
+  "Gender": "Male",
+  "Age": 26,
+  "Email": "a.barnes@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 6332,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac6"
+  },
+  "First Name": "Kirsten",
+  "Last Name": "Allen",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "k.allen@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 5792,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac7"
+  },
+  "First Name": "Charlie",
+  "Last Name": "Perkins",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "c.perkins@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 3586,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac8"
+  },
+  "First Name": "Florrie",
+  "Last Name": "Reed",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "f.reed@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 5497,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ac9"
+  },
+  "First Name": "Amber",
+  "Last Name": "Brooks",
+  "Gender": "Female",
+  "Age": 27,
+  "Email": "a.brooks@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 1684,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219aca"
+  },
+  "First Name": "Alberta",
+  "Last Name": "Robinson",
+  "Gender": "Female",
+  "Age": 27,
+  "Email": "a.robinson@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9319,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219acb"
+  },
+  "First Name": "Rebecca",
+  "Last Name": "Douglas",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "r.douglas@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 8283,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219acc"
+  },
+  "First Name": "Myra",
+  "Last Name": "Douglas",
+  "Gender": "Female",
+  "Age": 27,
+  "Email": "m.douglas@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 5215,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219acd"
+  },
+  "First Name": "Bruce",
+  "Last Name": "Cooper",
+  "Gender": "Male",
+  "Age": 22,
+  "Email": "b.cooper@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 5183,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ace"
+  },
+  "First Name": "Dale",
+  "Last Name": "Payne",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "d.payne@randatmail.com",
+  "Education": "Primary",
+  "Salary": 1065,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219acf"
+  },
+  "First Name": "Carl",
+  "Last Name": "Morrison",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "c.morrison@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 1870,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad0"
+  },
+  "First Name": "Evelyn",
+  "Last Name": "Wells",
+  "Gender": "Female",
+  "Age": 24,
+  "Email": "e.wells@randatmail.com",
+  "Education": "Master",
+  "Salary": 2923,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad1"
+  },
+  "First Name": "Martin",
+  "Last Name": "Alexander",
+  "Gender": "Male",
+  "Age": 26,
+  "Email": "m.alexander@randatmail.com",
+  "Education": "Master",
+  "Salary": 2739,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad2"
+  },
+  "First Name": "Miley",
+  "Last Name": "Payne",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "m.payne@randatmail.com",
+  "Education": "Primary",
+  "Salary": 8473,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad3"
+  },
+  "First Name": "Naomi",
+  "Last Name": "Spencer",
+  "Gender": "Female",
+  "Age": 26,
+  "Email": "n.spencer@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 5907,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad4"
+  },
+  "First Name": "Eleanor",
+  "Last Name": "Miller",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "e.miller@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 3279,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad5"
+  },
+  "First Name": "Daisy",
+  "Last Name": "Tucker",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "d.tucker@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 4834,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad6"
+  },
+  "First Name": "Rafael",
+  "Last Name": "Turner",
+  "Gender": "Male",
+  "Age": 29,
+  "Email": "r.turner@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9899,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad7"
+  },
+  "First Name": "Luke",
+  "Last Name": "Perry",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "l.perry@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9626,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad8"
+  },
+  "First Name": "Nicholas",
+  "Last Name": "Barrett",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "n.barrett@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 5577,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ad9"
+  },
+  "First Name": "Stuart",
+  "Last Name": "Roberts",
+  "Gender": "Male",
+  "Age": 19,
+  "Email": "s.roberts@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 2632,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ada"
+  },
+  "First Name": "Thomas",
+  "Last Name": "Cooper",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "t.cooper@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 2920,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219adb"
+  },
+  "First Name": "Sofia",
+  "Last Name": "Morris",
+  "Gender": "Female",
+  "Age": 18,
+  "Email": "s.morris@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 2638,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219adc"
+  },
+  "First Name": "Michael",
+  "Last Name": "Elliott",
+  "Gender": "Male",
+  "Age": 27,
+  "Email": "m.elliott@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 4496,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219add"
+  },
+  "First Name": "Oscar",
+  "Last Name": "Ferguson",
+  "Gender": "Male",
+  "Age": 27,
+  "Email": "o.ferguson@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 5504,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ade"
+  },
+  "First Name": "Rubie",
+  "Last Name": "Ferguson",
+  "Gender": "Female",
+  "Age": 24,
+  "Email": "r.ferguson@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 6921,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219adf"
+  },
+  "First Name": "Kimberly",
+  "Last Name": "Craig",
+  "Gender": "Female",
+  "Age": 26,
+  "Email": "k.craig@randatmail.com",
+  "Education": "Primary",
+  "Salary": 9611,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae0"
+  },
+  "First Name": "Arnold",
+  "Last Name": "Edwards",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "a.edwards@randatmail.com",
+  "Education": "Primary",
+  "Salary": 3591,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae1"
+  },
+  "First Name": "Sawyer",
+  "Last Name": "Hawkins",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "s.hawkins@randatmail.com",
+  "Education": "Primary",
+  "Salary": 7550,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae2"
+  },
+  "First Name": "Edith",
+  "Last Name": "Wright",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "e.wright@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 8539,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae3"
+  },
+  "First Name": "Sabrina",
+  "Last Name": "Ferguson",
+  "Gender": "Female",
+  "Age": 22,
+  "Email": "s.ferguson@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 3565,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae4"
+  },
+  "First Name": "Ada",
+  "Last Name": "Douglas",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "a.douglas@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 5195,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae5"
+  },
+  "First Name": "Freddie",
+  "Last Name": "Watson",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "f.watson@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9890,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae6"
+  },
+  "First Name": "Maximilian",
+  "Last Name": "Dixon",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "m.dixon@randatmail.com",
+  "Education": "Primary",
+  "Salary": 5819,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae7"
+  },
+  "First Name": "Henry",
+  "Last Name": "Watson",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "h.watson@randatmail.com",
+  "Education": "Primary",
+  "Salary": 9989,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae8"
+  },
+  "First Name": "Florrie",
+  "Last Name": "Richards",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "f.richards@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 826,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219ae9"
+  },
+  "First Name": "Heather",
+  "Last Name": "Cole",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "h.cole@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 5791,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219aea"
+  },
+  "First Name": "Aida",
+  "Last Name": "Wells",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "a.wells@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 3036,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219aeb"
+  },
+  "First Name": "Evelyn",
+  "Last Name": "Reed",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "e.reed@randatmail.com",
+  "Education": "Primary",
+  "Salary": 882,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219aec"
+  },
+  "First Name": "Gianna",
+  "Last Name": "Cole",
+  "Gender": "Female",
+  "Age": 26,
+  "Email": "g.cole@randatmail.com",
+  "Education": "Primary",
+  "Salary": 5251,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219aed"
+  },
+  "First Name": "Paul",
+  "Last Name": "Johnston",
+  "Gender": "Male",
+  "Age": 25,
+  "Email": "p.johnston@randatmail.com",
+  "Education": "Master",
+  "Salary": 2093,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219aee"
+  },
+  "First Name": "Arthur",
+  "Last Name": "Hawkins",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "a.hawkins@randatmail.com",
+  "Education": "Primary",
+  "Salary": 2760,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219aef"
+  },
+  "First Name": "Kimberly",
+  "Last Name": "Thompson",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "k.thompson@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 1516,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af0"
+  },
+  "First Name": "Jasmine",
+  "Last Name": "Mitchell",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "j.mitchell@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 3554,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af1"
+  },
+  "First Name": "Abigail",
+  "Last Name": "Gray",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "a.gray@randatmail.com",
+  "Education": "Primary",
+  "Salary": 7416,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af2"
+  },
+  "First Name": "Anna",
+  "Last Name": "Allen",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "a.allen@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 2022,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af3"
+  },
+  "First Name": "Sophia",
+  "Last Name": "Cameron",
+  "Gender": "Female",
+  "Age": 18,
+  "Email": "s.cameron@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 3411,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af4"
+  },
+  "First Name": "James",
+  "Last Name": "Robinson",
+  "Gender": "Male",
+  "Age": 26,
+  "Email": "j.robinson@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 8380,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af5"
+  },
+  "First Name": "Ted",
+  "Last Name": "Perkins",
+  "Gender": "Male",
+  "Age": 21,
+  "Email": "t.perkins@randatmail.com",
+  "Education": "Primary",
+  "Salary": 1810,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af6"
+  },
+  "First Name": "Sofia",
+  "Last Name": "Morgan",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "s.morgan@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 2817,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af7"
+  },
+  "First Name": "Annabella",
+  "Last Name": "Stewart",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "a.stewart@randatmail.com",
+  "Education": "Primary",
+  "Salary": 5095,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af8"
+  },
+  "First Name": "Jessica",
+  "Last Name": "Richards",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "j.richards@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 3919,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219af9"
+  },
+  "First Name": "Harold",
+  "Last Name": "Andrews",
+  "Gender": "Male",
+  "Age": 18,
+  "Email": "h.andrews@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 5890,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219afa"
+  },
+  "First Name": "Eric",
+  "Last Name": "Foster",
+  "Gender": "Male",
+  "Age": 26,
+  "Email": "e.foster@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 8316,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219afb"
+  },
+  "First Name": "Olivia",
+  "Last Name": "Mason",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "o.mason@randatmail.com",
+  "Education": "Primary",
+  "Salary": 3488,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219afc"
+  },
+  "First Name": "Rafael",
+  "Last Name": "Davis",
+  "Gender": "Male",
+  "Age": 22,
+  "Email": "r.davis@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 2158,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219afd"
+  },
+  "First Name": "Julian",
+  "Last Name": "Campbell",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "j.campbell@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 5239,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219afe"
+  },
+  "First Name": "Miranda",
+  "Last Name": "Jones",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "m.jones@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 6285,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219aff"
+  },
+  "First Name": "Valeria",
+  "Last Name": "Brooks",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "v.brooks@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9771,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b00"
+  },
+  "First Name": "Paige",
+  "Last Name": "Harper",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "p.harper@randatmail.com",
+  "Education": "Master",
+  "Salary": 4821,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b01"
+  },
+  "First Name": "Miller",
+  "Last Name": "Foster",
+  "Gender": "Male",
+  "Age": 27,
+  "Email": "m.foster@randatmail.com",
+  "Education": "Master",
+  "Salary": 1432,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b02"
+  },
+  "First Name": "Jack",
+  "Last Name": "Richardson",
+  "Gender": "Male",
+  "Age": 25,
+  "Email": "j.richardson@randatmail.com",
+  "Education": "Primary",
+  "Salary": 7667,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b03"
+  },
+  "First Name": "Briony",
+  "Last Name": "Montgomery",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "b.montgomery@randatmail.com",
+  "Education": "Primary",
+  "Salary": 3061,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b04"
+  },
+  "First Name": "Jordan",
+  "Last Name": "Moore",
+  "Gender": "Male",
+  "Age": 25,
+  "Email": "j.moore@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 7145,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b05"
+  },
+  "First Name": "Lenny",
+  "Last Name": "Kelley",
+  "Gender": "Male",
+  "Age": 23,
+  "Email": "l.kelley@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 9746,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b06"
+  },
+  "First Name": "Audrey",
+  "Last Name": "Sullivan",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "a.sullivan@randatmail.com",
+  "Education": "Master",
+  "Salary": 5670,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b07"
+  },
+  "First Name": "Freddie",
+  "Last Name": "Kelly",
+  "Gender": "Male",
+  "Age": 23,
+  "Email": "f.kelly@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 2604,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b08"
+  },
+  "First Name": "Leonardo",
+  "Last Name": "Tucker",
+  "Gender": "Male",
+  "Age": 29,
+  "Email": "l.tucker@randatmail.com",
+  "Education": "Master",
+  "Salary": 5226,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b09"
+  },
+  "First Name": "Ashton",
+  "Last Name": "Hawkins",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "a.hawkins@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 5545,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b0a"
+  },
+  "First Name": "Carl",
+  "Last Name": "Reed",
+  "Gender": "Male",
+  "Age": 22,
+  "Email": "c.reed@randatmail.com",
+  "Education": "Primary",
+  "Salary": 4267,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b0b"
+  },
+  "First Name": "Annabella",
+  "Last Name": "Armstrong",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "a.armstrong@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 6609,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b0c"
+  },
+  "First Name": "Florrie",
+  "Last Name": "Casey",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "f.casey@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 3614,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b0d"
+  },
+  "First Name": "Lilianna",
+  "Last Name": "Bennett",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "l.bennett@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 9846,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b0e"
+  },
+  "First Name": "Victoria",
+  "Last Name": "Brooks",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "v.brooks@randatmail.com",
+  "Education": "Primary",
+  "Salary": 7603,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b0f"
+  },
+  "First Name": "Sam",
+  "Last Name": "Owens",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "s.owens@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 8739,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b10"
+  },
+  "First Name": "Haris",
+  "Last Name": "Stewart",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "h.stewart@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 6803,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b11"
+  },
+  "First Name": "Valeria",
+  "Last Name": "Cooper",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "v.cooper@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 8268,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b12"
+  },
+  "First Name": "Hailey",
+  "Last Name": "Wright",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "h.wright@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 4014,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b13"
+  },
+  "First Name": "Brianna",
+  "Last Name": "Holmes",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "b.holmes@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 516,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b14"
+  },
+  "First Name": "Alford",
+  "Last Name": "Chapman",
+  "Gender": "Male",
+  "Age": 18,
+  "Email": "a.chapman@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 5200,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b15"
+  },
+  "First Name": "Belinda",
+  "Last Name": "Anderson",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "b.anderson@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 619,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b16"
+  },
+  "First Name": "Catherine",
+  "Last Name": "Morris",
+  "Gender": "Female",
+  "Age": 18,
+  "Email": "c.morris@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 4602,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b17"
+  },
+  "First Name": "Reid",
+  "Last Name": "Foster",
+  "Gender": "Male",
+  "Age": 21,
+  "Email": "r.foster@randatmail.com",
+  "Education": "Primary",
+  "Salary": 9460,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b18"
+  },
+  "First Name": "Tess",
+  "Last Name": "Edwards",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "t.edwards@randatmail.com",
+  "Education": "Master",
+  "Salary": 718,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b19"
+  },
+  "First Name": "James",
+  "Last Name": "Kelley",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "j.kelley@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 2870,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b1a"
+  },
+  "First Name": "Lydia",
+  "Last Name": "Richardson",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "l.richardson@randatmail.com",
+  "Education": "Master",
+  "Salary": 3537,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b1b"
+  },
+  "First Name": "Penelope",
+  "Last Name": "Jones",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "p.jones@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9913,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b1c"
+  },
+  "First Name": "Lyndon",
+  "Last Name": "Rogers",
+  "Gender": "Male",
+  "Age": 26,
+  "Email": "l.rogers@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 826,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b1d"
+  },
+  "First Name": "Aida",
+  "Last Name": "Riley",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "a.riley@randatmail.com",
+  "Education": "Primary",
+  "Salary": 6050,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b1e"
+  },
+  "First Name": "Blake",
+  "Last Name": "West",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "b.west@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 9375,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b1f"
+  },
+  "First Name": "Adam",
+  "Last Name": "Myers",
+  "Gender": "Male",
+  "Age": 23,
+  "Email": "a.myers@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9854,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b20"
+  },
+  "First Name": "Andrew",
+  "Last Name": "Clark",
+  "Gender": "Male",
+  "Age": 25,
+  "Email": "a.clark@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 4459,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b21"
+  },
+  "First Name": "Miley",
+  "Last Name": "Baker",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "m.baker@randatmail.com",
+  "Education": "Primary",
+  "Salary": 646,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b22"
+  },
+  "First Name": "Rosie",
+  "Last Name": "Wilson",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "r.wilson@randatmail.com",
+  "Education": "Primary",
+  "Salary": 8950,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b23"
+  },
+  "First Name": "Lucy",
+  "Last Name": "Walker",
+  "Gender": "Female",
+  "Age": 18,
+  "Email": "l.walker@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 8631,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b24"
+  },
+  "First Name": "Adele",
+  "Last Name": "Nelson",
+  "Gender": "Female",
+  "Age": 22,
+  "Email": "a.nelson@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9925,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b25"
+  },
+  "First Name": "Belinda",
+  "Last Name": "Owens",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "b.owens@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 4519,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b26"
+  },
+  "First Name": "Joyce",
+  "Last Name": "Henderson",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "j.henderson@randatmail.com",
+  "Education": "Primary",
+  "Salary": 1474,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b27"
+  },
+  "First Name": "Jenna",
+  "Last Name": "Henderson",
+  "Gender": "Female",
+  "Age": 22,
+  "Email": "j.henderson@randatmail.com",
+  "Education": "Master",
+  "Salary": 3856,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b28"
+  },
+  "First Name": "Arnold",
+  "Last Name": "Owens",
+  "Gender": "Male",
+  "Age": 19,
+  "Email": "a.owens@randatmail.com",
+  "Education": "Master",
+  "Salary": 8483,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b29"
+  },
+  "First Name": "Hailey",
+  "Last Name": "Stewart",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "h.stewart@randatmail.com",
+  "Education": "Master",
+  "Salary": 5680,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b2a"
+  },
+  "First Name": "Amber",
+  "Last Name": "Harris",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "a.harris@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 5205,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b2b"
+  },
+  "First Name": "Miller",
+  "Last Name": "Phillips",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "m.phillips@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 8170,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b2c"
+  },
+  "First Name": "Maddie",
+  "Last Name": "Bennett",
+  "Gender": "Female",
+  "Age": 24,
+  "Email": "m.bennett@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 5351,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b2d"
+  },
+  "First Name": "Ned",
+  "Last Name": "Payne",
+  "Gender": "Male",
+  "Age": 23,
+  "Email": "n.payne@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 3461,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b2e"
+  },
+  "First Name": "Jessica",
+  "Last Name": "Elliott",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "j.elliott@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 8509,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b2f"
+  },
+  "First Name": "Adrianna",
+  "Last Name": "Campbell",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "a.campbell@randatmail.com",
+  "Education": "Primary",
+  "Salary": 901,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b30"
+  },
+  "First Name": "Catherine",
+  "Last Name": "Owens",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "c.owens@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 1435,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b31"
+  },
+  "First Name": "Blake",
+  "Last Name": "Morgan",
+  "Gender": "Male",
+  "Age": 18,
+  "Email": "b.morgan@randatmail.com",
+  "Education": "Master",
+  "Salary": 940,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b32"
+  },
+  "First Name": "Camila",
+  "Last Name": "Phillips",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "c.phillips@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 1211,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b33"
+  },
+  "First Name": "Cherry",
+  "Last Name": "Adams",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "c.adams@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 4034,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b34"
+  },
+  "First Name": "Melissa",
+  "Last Name": "Edwards",
+  "Gender": "Female",
+  "Age": 18,
+  "Email": "m.edwards@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 7822,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b35"
+  },
+  "First Name": "Nicole",
+  "Last Name": "Murray",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "n.murray@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 5163,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b36"
+  },
+  "First Name": "Adrianna",
+  "Last Name": "Ferguson",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "a.ferguson@randatmail.com",
+  "Education": "Primary",
+  "Salary": 2030,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b37"
+  },
+  "First Name": "Edward",
+  "Last Name": "Howard",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "e.howard@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9989,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b38"
+  },
+  "First Name": "Cherry",
+  "Last Name": "Gibson",
+  "Gender": "Female",
+  "Age": 18,
+  "Email": "c.gibson@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 4745,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b39"
+  },
+  "First Name": "Vincent",
+  "Last Name": "Crawford",
+  "Gender": "Male",
+  "Age": 25,
+  "Email": "v.crawford@randatmail.com",
+  "Education": "Master",
+  "Salary": 2032,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b3a"
+  },
+  "First Name": "Alfred",
+  "Last Name": "Thompson",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "a.thompson@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 1260,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b3b"
+  },
+  "First Name": "Tony",
+  "Last Name": "Cooper",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "t.cooper@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 4982,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b3c"
+  },
+  "First Name": "Carl",
+  "Last Name": "Allen",
+  "Gender": "Male",
+  "Age": 25,
+  "Email": "c.allen@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 3922,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b3d"
+  },
+  "First Name": "Brad",
+  "Last Name": "Allen",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "b.allen@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 836,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b3e"
+  },
+  "First Name": "Ned",
+  "Last Name": "Ellis",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "n.ellis@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 1258,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b3f"
+  },
+  "First Name": "Alberta",
+  "Last Name": "Ellis",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "a.ellis@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 4899,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b40"
+  },
+  "First Name": "Audrey",
+  "Last Name": "Stewart",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "a.stewart@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 1786,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b41"
+  },
+  "First Name": "Carina",
+  "Last Name": "Payne",
+  "Gender": "Female",
+  "Age": 24,
+  "Email": "c.payne@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 2078,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b42"
+  },
+  "First Name": "James",
+  "Last Name": "Harrison",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "j.harrison@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 4411,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b43"
+  },
+  "First Name": "Wilson",
+  "Last Name": "Perry",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "w.perry@randatmail.com",
+  "Education": "Primary",
+  "Salary": 3133,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b44"
+  },
+  "First Name": "Kevin",
+  "Last Name": "Dixon",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "k.dixon@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 3665,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b45"
+  },
+  "First Name": "Amber",
+  "Last Name": "Scott",
+  "Gender": "Female",
+  "Age": 27,
+  "Email": "a.scott@randatmail.com",
+  "Education": "Master",
+  "Salary": 1028,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b46"
+  },
+  "First Name": "Arianna",
+  "Last Name": "Perry",
+  "Gender": "Female",
+  "Age": 24,
+  "Email": "a.perry@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 6315,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b47"
+  },
+  "First Name": "Lucia",
+  "Last Name": "Martin",
+  "Gender": "Female",
+  "Age": 18,
+  "Email": "l.martin@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 5208,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b48"
+  },
+  "First Name": "Chloe",
+  "Last Name": "Carter",
+  "Gender": "Female",
+  "Age": 18,
+  "Email": "c.carter@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 6185,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b49"
+  },
+  "First Name": "Sarah",
+  "Last Name": "Adams",
+  "Gender": "Female",
+  "Age": 26,
+  "Email": "s.adams@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 509,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b4a"
+  },
+  "First Name": "Eric",
+  "Last Name": "Baker",
+  "Gender": "Male",
+  "Age": 26,
+  "Email": "e.baker@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 6442,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b4b"
+  },
+  "First Name": "Aldus",
+  "Last Name": "Crawford",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "a.crawford@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 3056,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b4c"
+  },
+  "First Name": "Sawyer",
+  "Last Name": "Miller",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "s.miller@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 2935,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b4d"
+  },
+  "First Name": "Alissa",
+  "Last Name": "Hall",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "a.hall@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 2295,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b4e"
+  },
+  "First Name": "Wilson",
+  "Last Name": "Morris",
+  "Gender": "Male",
+  "Age": 22,
+  "Email": "w.morris@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 4130,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b4f"
+  },
+  "First Name": "Aldus",
+  "Last Name": "Williams",
+  "Gender": "Male",
+  "Age": 26,
+  "Email": "a.williams@randatmail.com",
+  "Education": "Master",
+  "Salary": 5387,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b50"
+  },
+  "First Name": "Alford",
+  "Last Name": "Perry",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "a.perry@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 2033,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b51"
+  },
+  "First Name": "Marcus",
+  "Last Name": "Smith",
+  "Gender": "Male",
+  "Age": 26,
+  "Email": "m.smith@randatmail.com",
+  "Education": "Master",
+  "Salary": 7414,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b52"
+  },
+  "First Name": "Clark",
+  "Last Name": "Crawford",
+  "Gender": "Male",
+  "Age": 25,
+  "Email": "c.crawford@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 2577,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b53"
+  },
+  "First Name": "Charlie",
+  "Last Name": "Walker",
+  "Gender": "Male",
+  "Age": 18,
+  "Email": "c.walker@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 7677,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b54"
+  },
+  "First Name": "Abigail",
+  "Last Name": "Parker",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "a.parker@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 7843,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b55"
+  },
+  "First Name": "Alan",
+  "Last Name": "Craig",
+  "Gender": "Male",
+  "Age": 28,
+  "Email": "a.craig@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 937,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b56"
+  },
+  "First Name": "Rebecca",
+  "Last Name": "Cole",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "r.cole@randatmail.com",
+  "Education": "Master",
+  "Salary": 8722,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b57"
+  },
+  "First Name": "Antony",
+  "Last Name": "Morris",
+  "Gender": "Male",
+  "Age": 25,
+  "Email": "a.morris@randatmail.com",
+  "Education": "Primary",
+  "Salary": 4717,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b58"
+  },
+  "First Name": "Melanie",
+  "Last Name": "Morgan",
+  "Gender": "Female",
+  "Age": 24,
+  "Email": "m.morgan@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 2386,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b59"
+  },
+  "First Name": "Ada",
+  "Last Name": "Morrison",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "a.morrison@randatmail.com",
+  "Education": "Master",
+  "Salary": 1851,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b5a"
+  },
+  "First Name": "Annabella",
+  "Last Name": "Harrison",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "a.harrison@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 9219,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b5b"
+  },
+  "First Name": "Camila",
+  "Last Name": "Higgins",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "c.higgins@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 8193,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b5c"
+  },
+  "First Name": "Walter",
+  "Last Name": "Barnes",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "w.barnes@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 7300,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b5d"
+  },
+  "First Name": "Isabella",
+  "Last Name": "Turner",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "i.turner@randatmail.com",
+  "Education": "Master",
+  "Salary": 5348,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b5e"
+  },
+  "First Name": "Heather",
+  "Last Name": "Myers",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "h.myers@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 6682,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b5f"
+  },
+  "First Name": "Henry",
+  "Last Name": "Ross",
+  "Gender": "Male",
+  "Age": 18,
+  "Email": "h.ross@randatmail.com",
+  "Education": "Master",
+  "Salary": 6346,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b60"
+  },
+  "First Name": "Cadie",
+  "Last Name": "Mason",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "c.mason@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 7200,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b61"
+  },
+  "First Name": "Richard",
+  "Last Name": "Adams",
+  "Gender": "Male",
+  "Age": 22,
+  "Email": "r.adams@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 4160,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b62"
+  },
+  "First Name": "Adrian",
+  "Last Name": "Craig",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "a.craig@randatmail.com",
+  "Education": "Master",
+  "Salary": 3807,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b63"
+  },
+  "First Name": "Olivia",
+  "Last Name": "Phillips",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "o.phillips@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 5020,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b64"
+  },
+  "First Name": "Adison",
+  "Last Name": "Brooks",
+  "Gender": "Male",
+  "Age": 19,
+  "Email": "a.brooks@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 9543,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b65"
+  },
+  "First Name": "Paul",
+  "Last Name": "Scott",
+  "Gender": "Male",
+  "Age": 24,
+  "Email": "p.scott@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 5307,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b66"
+  },
+  "First Name": "Emily",
+  "Last Name": "Anderson",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "e.anderson@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 1104,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b67"
+  },
+  "First Name": "William",
+  "Last Name": "Lloyd",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "w.lloyd@randatmail.com",
+  "Education": "Primary",
+  "Salary": 3170,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b68"
+  },
+  "First Name": "Sophia",
+  "Last Name": "Carroll",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "s.carroll@randatmail.com",
+  "Education": "Primary",
+  "Salary": 4252,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b69"
+  },
+  "First Name": "Richard",
+  "Last Name": "West",
+  "Gender": "Male",
+  "Age": 23,
+  "Email": "r.west@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 1318,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b6a"
+  },
+  "First Name": "Victor",
+  "Last Name": "Wells",
+  "Gender": "Male",
+  "Age": 22,
+  "Email": "v.wells@randatmail.com",
+  "Education": "Master",
+  "Salary": 8430,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b6b"
+  },
+  "First Name": "Caroline",
+  "Last Name": "Douglas",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "c.douglas@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 5125,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b6c"
+  },
+  "First Name": "Abigail",
+  "Last Name": "Ellis",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "a.ellis@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 8998,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b6d"
+  },
+  "First Name": "Brooke",
+  "Last Name": "Taylor",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "b.taylor@randatmail.com",
+  "Education": "Master",
+  "Salary": 6659,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b6e"
+  },
+  "First Name": "Amanda",
+  "Last Name": "Anderson",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "a.anderson@randatmail.com",
+  "Education": "Primary",
+  "Salary": 707,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b6f"
+  },
+  "First Name": "John",
+  "Last Name": "Martin",
+  "Gender": "Male",
+  "Age": 21,
+  "Email": "j.martin@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 3895,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b70"
+  },
+  "First Name": "Albert",
+  "Last Name": "Scott",
+  "Gender": "Male",
+  "Age": 27,
+  "Email": "a.scott@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 6265,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b71"
+  },
+  "First Name": "Frederick",
+  "Last Name": "Alexander",
+  "Gender": "Male",
+  "Age": 27,
+  "Email": "f.alexander@randatmail.com",
+  "Education": "Primary",
+  "Salary": 6686,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b72"
+  },
+  "First Name": "Roman",
+  "Last Name": "Payne",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "r.payne@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 8892,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b73"
+  },
+  "First Name": "Max",
+  "Last Name": "Thomas",
+  "Gender": "Male",
+  "Age": 19,
+  "Email": "m.thomas@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 1221,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b74"
+  },
+  "First Name": "Florrie",
+  "Last Name": "Richardson",
+  "Gender": "Female",
+  "Age": 28,
+  "Email": "f.richardson@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 6664,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b75"
+  },
+  "First Name": "Elise",
+  "Last Name": "Johnson",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "e.johnson@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 6698,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b76"
+  },
+  "First Name": "Madaline",
+  "Last Name": "Sullivan",
+  "Gender": "Female",
+  "Age": 27,
+  "Email": "m.sullivan@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 5553,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b77"
+  },
+  "First Name": "Elian",
+  "Last Name": "Allen",
+  "Gender": "Male",
+  "Age": 30,
+  "Email": "e.allen@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 9759,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b78"
+  },
+  "First Name": "Tess",
+  "Last Name": "Henderson",
+  "Gender": "Female",
+  "Age": 30,
+  "Email": "t.henderson@randatmail.com",
+  "Education": "Master",
+  "Salary": 3890,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b79"
+  },
+  "First Name": "Aldus",
+  "Last Name": "Nelson",
+  "Gender": "Male",
+  "Age": 18,
+  "Email": "a.nelson@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 2776,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b7a"
+  },
+  "First Name": "Bruce",
+  "Last Name": "Murray",
+  "Gender": "Male",
+  "Age": 20,
+  "Email": "b.murray@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 9587,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b7b"
+  },
+  "First Name": "Elian",
+  "Last Name": "Myers",
+  "Gender": "Male",
+  "Age": 27,
+  "Email": "e.myers@randatmail.com",
+  "Education": "Lower secondary",
+  "Salary": 7548,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b7c"
+  },
+  "First Name": "Victoria",
+  "Last Name": "Payne",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "v.payne@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 7374,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b7d"
+  },
+  "First Name": "Evelyn",
+  "Last Name": "Higgins",
+  "Gender": "Female",
+  "Age": 23,
+  "Email": "e.higgins@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 4265,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b7e"
+  },
+  "First Name": "Audrey",
+  "Last Name": "Stevens",
+  "Gender": "Female",
+  "Age": 27,
+  "Email": "a.stevens@randatmail.com",
+  "Education": "Upper secondary",
+  "Salary": 6712,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b7f"
+  },
+  "First Name": "Kevin",
+  "Last Name": "Wells",
+  "Gender": "Male",
+  "Age": 27,
+  "Email": "k.wells@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 4989,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b80"
+  },
+  "First Name": "Daisy",
+  "Last Name": "Sullivan",
+  "Gender": "Female",
+  "Age": 21,
+  "Email": "d.sullivan@randatmail.com",
+  "Education": "Primary",
+  "Salary": 5214,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b81"
+  },
+  "First Name": "Grace",
+  "Last Name": "Martin",
+  "Gender": "Female",
+  "Age": 19,
+  "Email": "g.martin@randatmail.com",
+  "Education": "Primary",
+  "Salary": 2548,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b82"
+  },
+  "First Name": "Julian",
+  "Last Name": "Harris",
+  "Gender": "Male",
+  "Age": 22,
+  "Email": "j.harris@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 2880,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b83"
+  },
+  "First Name": "Eric",
+  "Last Name": "Hill",
+  "Gender": "Male",
+  "Age": 21,
+  "Email": "e.hill@randatmail.com",
+  "Education": "Primary",
+  "Salary": 2540,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b84"
+  },
+  "First Name": "Catherine",
+  "Last Name": "Johnson",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "c.johnson@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 8799,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b85"
+  },
+  "First Name": "Victoria",
+  "Last Name": "Lloyd",
+  "Gender": "Female",
+  "Age": 29,
+  "Email": "v.lloyd@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 6313,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b86"
+  },
+  "First Name": "Carl",
+  "Last Name": "Montgomery",
+  "Gender": "Male",
+  "Age": 23,
+  "Email": "c.montgomery@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 8106,
+  "Marital Status": "Married"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b87"
+  },
+  "First Name": "Amber",
+  "Last Name": "Johnson",
+  "Gender": "Female",
+  "Age": 25,
+  "Email": "a.johnson@randatmail.com",
+  "Education": "Bachelor",
+  "Salary": 3657,
+  "Marital Status": "Single"
+},
+{
+  "_id": {
+    "$oid": "673e230151c9a9c62d219b88"
+  },
+  "First Name": "Florrie",
+  "Last Name": "Farrell",
+  "Gender": "Female",
+  "Age": 20,
+  "Email": "f.farrell@randatmail.com",
+  "Education": "Doctoral",
+  "Salary": 6647,
+  "Marital Status": "Married"
+}]
